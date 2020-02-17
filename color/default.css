@@ -1,17 +1,17 @@
 a:hover,
 a:focus {
-    color: #3dc9b3;
+    color: #090a0a;
 }
 
 #navigation {
-	border-top: 5px solid #3dc9b3;
+	border-top: 5px solid #0a0a0a;
 }
 
 a,.tp-caption a.btn:hover {
-	color: #3dc9b3;
+	color: #0b0c0c;
 }
 .top-nav-collapse {
-	background: #3dc9b3;
+	background: #0a0a0a;
 }
 
 .carousel-indicators .active {
@@ -19,17 +19,17 @@ a,.tp-caption a.btn:hover {
 }
 
 .header-text h2 span {
-    background-color: #3dc9b3;
+    background-color: #070808;
 }
 
 
 .navbar-custom ul.nav ul.dropdown-menu li a:hover {
-	color: #3dc9b3;
+	color: #0d0e0d;
 }
 
 .owl-theme .owl-controls .owl-page.active span,
 .owl-theme .owl-controls.clickable .owl-page:hover span {
-    background-color: #3dc9b3;
+    background-color: #0f1111;
 }
 
 .widget-avatar .avatar:hover {
@@ -37,7 +37,7 @@ a,.tp-caption a.btn:hover {
 }
 
 .bg-skin {
-	background: #3dc9b3;
+	background: #0a0a0a;
 }
 
 .highlight-color {
@@ -59,16 +59,16 @@ form.search-form input:focus {
 
 /* footer */
 ul.footer-menu li a:hover {
-	color: #3dc9b3;
+	color: #080808;
 }
 
 footer a.totop:hover {
-	color: #3dc9b3;
+	color: #080808;
 }
 
 
 .btn-skin {
   color: #fff;
-  background-color: #3dc9b3;
-  border-color: #3dc9b3;
+  background-color: #ff0000;
+  border-color: #050505;
 }
