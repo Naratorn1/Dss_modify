@@ -1,0 +1,21 @@
+@relation youtubedss-weka.filters.unsupervised.attribute.NumericToNominal-Rfirst-last
+
+@attribute age {1,2,3}
+@attribute income {1,2,3}
+@attribute using_youtube {1,2,3}
+@attribute channel {1,2}
+@attribute ads_noskip {1,2}
+@attribute ads_skip {1,2,3}
+@attribute pay {1,2,3}
+@attribute class {no,yes}
+
+@data
+
+1,2,1,2,2,2,1,no
+2,1,3,2,1,3,2,yes
+3,2,2,1,1,1,2,yes
+2,1,3,1,2,3,3,no
+2,2,2,1,1,1,1,no
+1,1,2,1,2,2,2,no
+3,3,3,1,2,3,1,yes
+1,2,2,2,1,2,2,?

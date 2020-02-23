@@ -58,7 +58,7 @@ h4,
 h5,
 h6 {
     margin: 0 0 30px;
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Prompt', sans-serif;
     font-weight: 400;
 	color: #111;
 }
@@ -72,6 +72,7 @@ h1.h-light,h2.h-light,h3.h-light ,h4.h-light ,h5.h-light ,h6.h-light  {
 }
 
 h1.h-bold,h2.h-bold,h3.h-bold ,h4.h-bold ,h5.h-bold ,h6.h-bold  {
+	font-family: 'Prompt', sans-serif;
 	font-weight: 600;
 }
 
@@ -452,7 +453,8 @@ hr.bold {
 --- Intro
 ============================ */
 
-.hero { background:url(../img/youtube.jpg) no-repeat center center;-webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover; padding: 320px 0 320px 0; height: auto;}
+.hero { background:url(../img/youtube.jpg) no-repeat center center;-webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover; padding: 320px 0 320px 0; 
+	height: auto;  max-width: 100%;}
 .hero h1 { font-size: 60px; letter-spacing: 12px; margin: 40px 0 10px; font-weight: 900; color: rgb(27, 27, 27); text-shadow: -1px 0 rgb(250, 250, 250), 0 3px rgb(255, 255, 255),
 	1px 0 rgb(243, 243, 243), 0 -1px rgb(253, 253, 253)}
 .hero h1 span { color: #424344; display: inline-block; }
